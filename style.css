@@ -1,9 +1,7 @@
 
 img{
     width: 50%;
-    /* width: 200px; */
 }
-
 
 .card-header{
     background-color: black;
@@ -39,8 +37,11 @@ flag1{
 .align{
     text-align: left;
 }
-button{
-    align-items: center;
+.button{
+    
+    align-content: center;
+    background-color: blue;
+    
 }
 .card-text{
     font-size: small;
@@ -51,9 +52,18 @@ li{
 ul{
     padding-left: 0;
 }
-
-
-
+.vertical-center {
+    text-align: center;
+}
+ .nextBtn{
+    margin-left: 60px;
+    border: 1px solid grey;
+    border-radius: 12px;
+}
+.prevBtn{
+    margin-right: 60px;
+    border-radius: 12px;
+} 
 
 
 /* ================================== */
