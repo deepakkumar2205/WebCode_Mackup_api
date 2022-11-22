@@ -62,6 +62,7 @@ ul{
 }
 .prevBtn{
     margin-right: 60px;
+    border: 1px solid grey;
     border-radius: 12px;
 } 
 
